@@ -32,7 +32,7 @@ function Header() {
             <HeaderItem name={""} Icon={HiDotsVertical} />
             {toggle ? (
               <div
-                className="absolute left-50 mt-5 bg-[#121212]
+                className="absolute left-45 mt-5 bg-[#121212]
             border-[1px] border-gray-700 p-2 px-5 py-3 rounded-b-2xl"
               >
                 {menu.map(
